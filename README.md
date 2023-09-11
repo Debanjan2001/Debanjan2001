@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Debanjan Saha</h1>
-<h3 align="center">A fourth year UG Student at IIT Kharagpur</h3>
+<h3 align="center">A final year Dual Degree Student at IIT Kharagpur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debanjan2001&label=Profile%20views&color=0e75b6&style=flat" alt="debanjan2001" /> </p>
 
